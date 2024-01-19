@@ -506,7 +506,23 @@
                 "edit_title": "Edit Permissions",
                 "role_colour": "Role Color",
                 "role_options": "Role Options",
-                "role_ranking": "Role Ranking"
+                "role_ranking": "Role Ranking",
+                "role_requestable": "Role Requestable",
+                "role_requestable_desc": "Allow users to request this role.",
+                "info_required": "Info Required",
+                "info_required_desc": "Require users to provide information when requesting this role.",
+                "payment_required": "Payment Required",
+                "payment_required_desc": "Require users to pay a fee when requesting this role.",
+                "approvement_required": "Approvement Required",
+                "approvement_required_desc": "Require users to be approved by a moderator when requesting this role.",
+                "expires": "Expires",
+                "expires_desc": "Automatically remove this role after a certain amount of time.",
+                "cost": "Cost",
+                "approval_roles": "Approval Roles",
+                "duration": "Duration",
+                "months": "Months",
+                "years": "Years",
+                "days": "Days"
             }
         },
         "special": {
