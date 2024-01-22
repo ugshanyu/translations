@@ -670,6 +670,11 @@
                     "reported": "Reported",
                     "thank_you": "Thank you for helping to keep Revolt safe. We will review your report as soon as possible.",
                     "block_user": "Would you like to block this user?"
+                },
+                "role_request": {
+                    "role_request": "Role Request",
+                    "enter_school": "Enter your school name",
+                    "enter_grade": "Enter your grade"
                 }
             },
             "popovers": {
